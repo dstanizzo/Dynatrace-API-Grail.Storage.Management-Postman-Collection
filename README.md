@@ -52,7 +52,7 @@ I've added variables for security and to make them easy to use with multiple Dyn
 
    ![Import Collection](https://github.com/dstanizzo/Dynatrace-API-Grail.Storage.Management-Postman-Collection/blob/main/images/Import.png)
 
-   - Download the [Dynatrace Grail Storage Management](https://github.com/dstanizzo/Dynatrace-API-Account.Management-Postman-Collection/blob/main/Dynatrace%20Account%20Management%20API%20v1%20Collection/Dynatrace%20Account%20Management%20API%20v1.json) JSON from the repository.
+   - Download the [Dynatrace Grail Storage Management](https://github.com/dstanizzo/Dynatrace-API-Grail.Storage.Management-Postman-Collection/blob/main/Dynatrace%20Grail%20Storage%20Management%20API%20v1%20Collection/Dynatrace%20Grail%20Storage%20Management%20API%20v1.json) JSON from the repository.
    - Select Collections.
    - Click on Import and choose the previously downloaded JSON.
    - Your Dynatrace Grail Storage Management API v1 Collection has been added to your collection.
