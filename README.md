@@ -30,7 +30,7 @@ I've added variables for security and to make them easy to use with multiple Dyn
   
 ## 2. Create an Environment for your Collection in Postman
 
-![Environment](https://github.com/dstanizzo/Dynatrace-API-Account.Management-Postman-Collection/blob/main/images/Environment.png)
+![Environment](https://github.com/dstanizzo/Dynatrace-API-Grail.Storage.Management-Postman-Collection/blob/main/images/Environment.png)
 
    - Select Environments.
    - Click the + sign.
@@ -50,9 +50,9 @@ I've added variables for security and to make them easy to use with multiple Dyn
     
 ## 3. Import Dynatrace Grail Storage Management API Collection
 
-   ![Import Collection](https://github.com/dstanizzo/Dynatrace-API-Account.Management-Postman-Collection/blob/main/images/Import.png)
+   ![Import Collection](https://github.com/dstanizzo/Dynatrace-API-Grail.Storage.Management-Postman-Collection/blob/main/images/Import.png)
 
-   - Download the [Dynatrace Account Management](https://github.com/dstanizzo/Dynatrace-API-Account.Management-Postman-Collection/blob/main/Dynatrace%20Account%20Management%20API%20v1%20Collection/Dynatrace%20Account%20Management%20API%20v1.json) JSON from the repository.
+   - Download the [Dynatrace Grail Storage Management](https://github.com/dstanizzo/Dynatrace-API-Account.Management-Postman-Collection/blob/main/Dynatrace%20Account%20Management%20API%20v1%20Collection/Dynatrace%20Account%20Management%20API%20v1.json) JSON from the repository.
    - Select Collections.
    - Click on Import and choose the previously downloaded JSON.
    - Your Dynatrace Grail Storage Management API v1 Collection has been added to your collection.
@@ -72,7 +72,7 @@ I've added variables for security and to make them easy to use with multiple Dyn
 
 ## 5. Ready, Set, Go
 
-   ![Get Ready](https://github.com/dstanizzo/Dynatrace-API-Account.Management-Postman-Collection/blob/main/images/Using.Collection.png)
+   ![Get Ready](https://github.com/dstanizzo/Dynatrace-API-Grail.Storage.Management-Postman-Collection/blob/main/images/Using.Collection.png)
 
    - :warning: **DON'T FORGET TO HAVE SELECTED THE ENVIRONMENT CREATED IN STEP 2** :warning:
    - Select Collections.
