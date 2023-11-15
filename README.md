@@ -45,7 +45,7 @@ I've added variables for security and to make them easy to use with multiple Dyn
      - **DT_TOKEN_NAME**        The name for your token.
      - **DT_TOKEN**             In this variable you will store your assigned dynamic token.
      - **DT_HOST**              :warning: **PLEASE DON'T CHANGE THIS VALUE** :warning: The URL _api.dynatrace.com_ of the Dynatrace API for Account Management.
-     - **DT_SaaS_HOST**         Your Environment ID url for the Lastest Dynatrace {your-environment-id}.apps.dynatrace.com
+     - **DT_SaaS_HOST**         Your Environment ID url for the Latest Dynatrace {your-environment-id}.apps.dynatrace.com
    - Leave this Environment Selected. 
     
 ## 3. Import Dynatrace Grail Storage Management API Collection
